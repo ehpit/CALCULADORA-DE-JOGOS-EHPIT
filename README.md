@@ -1,4 +1,4 @@
-# 🎮 CALCULADORA DE JOGOS EHPIT
+# 🎮 CALCULADORA DE JOGOS EHPIT V1.00
 
 https://www.ehpinfotec.com.br/inven%C3%A7%C3%B5es-ehpit/calculadora-jogos-e-armazenamentos-ehpit
 
